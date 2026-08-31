@@ -1,0 +1,6 @@
+{
+  "name": "SlideCode",
+  "description": "Convert JavaScript code to downloadable PPTX and high-quality PDF files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
