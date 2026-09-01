@@ -429,7 +429,7 @@ export default function App() {
     <div className={`min-h-screen w-full flex flex-col font-sans transition-colors duration-200 ${isDarkMode ? 'dark' : ''}`}>
       <div className="h-[100dvh] flex flex-col bg-neutral-50 dark:bg-[#0a0a0a] text-neutral-900 dark:text-neutral-50 overflow-hidden bg-dot-pattern">
         {/* Header */}
-        <header className="flex-none px-4 md:px-6 py-3 md:py-4 flex justify-between items-center z-10 overflow-x-auto no-scrollbar">
+        <header className="flex-none px-4 md:px-6 py-3 md:py-4 flex justify-between items-center z-50">
           <div className="flex items-center gap-3 md:gap-6 shrink-0">
             <div className="flex items-center gap-2 md:gap-3">
               <div className="w-7 h-7 md:w-8 md:h-8 bg-neutral-900 dark:bg-white rounded-lg flex items-center justify-center shadow-sm shrink-0">
